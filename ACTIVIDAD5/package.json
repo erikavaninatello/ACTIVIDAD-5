@@ -1,0 +1,17 @@
+{
+  "name": "actividad5",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node --watch index.mjs",
+    "start": "node index.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "nanoid": "^5.1.11",
+    "pg": "^8.21.0"
+  }
+}
